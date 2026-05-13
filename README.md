@@ -80,9 +80,24 @@ I love building systems that are not only working, but also maintainable.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src ="https://github-readme-stats-fast.vercel.app/api?username=xisain&show_icons=true&theme=tokyonight" alt="github readme"/>
-  <img src ="https://github-readme-stats-fast.vercel.app/api/streak?username=xisain&theme=tokyonight" alt="github readme"/>
-  <img src ="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=xisain&layout=compact&theme=tokyonight" alt="github readme"/>
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api?username=xisain&show_icons=true&theme=tokyonight" 
+    alt="GitHub Stats" 
+    width="49%" 
+  />
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=xisain&theme=tokyonight" 
+    alt="GitHub Streak" 
+    width="49%" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=xisain&layout=compact&theme=tokyonight" 
+    alt="Top Languages" 
+    width="49%" 
+  />
 </p>
 
 ---
